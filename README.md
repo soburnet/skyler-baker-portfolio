@@ -24,11 +24,14 @@ Once I graduate, I plan to seek a job in either a remote arts service organizati
 # Quick Samples
 Please view a few quick samples of my work here! 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+# Assignments 
+Please view my main submissions for assignments in this course below. 
+
+## Assignment: [Visualizing Overnment Debt](visualizing-government-debt)
+I will set up and link to a new page. This page is linking to a new Markdown document called `visualizing-government-debt.md`. For links to markdown files in my repository, I can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, I will set up and link to a new page. This page is linking to a new markdown document called `critique-by-design.md`.  
 
 ## Final Project
 This is where I will describe my final project. 
