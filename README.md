@@ -20,9 +20,11 @@ Once I graduate, I plan to seek a job in either a remote arts service organizati
 
 # Quick Samples
 Please view a few quick samples of my work here! 
+[Data Visualization](dataviz-examples)
 
 # Assignments 
 Please view my main submissions for assignments in this course below. 
+[Critique by Design](critique-by-design)
 
 ## Assignment: [Visualizing Overnment Debt](visualizing-government-debt)
 I will set up and link to a new page. This page is linking to a new Markdown document called `visualizing-government-debt.md`. For links to markdown files in my repository, I can just include the name of the page without the `.md` extension. 
@@ -34,7 +36,7 @@ For this assignment, I will set up and link to a new page. This page is linking 
 This is where I will describe my final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ## References
 The references I use to complete assignments in this course will be listed here. 
