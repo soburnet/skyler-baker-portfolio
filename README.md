@@ -9,7 +9,7 @@ Hi! My name is Skyler Baker. I am a second year Master of Arts Management candid
 I am currently hoping to develop skills in data visualization design to promote the use of data within arts organizations, so more data-driven strategies can be incorporated. I believe data will be vital to ensuring the sustainability of arts organizations, so an understanding of how to utilize data visualizations to tell stories is equally as critical for arts leaders to be able to convey key information from the data. I look forward to gaining these skills to better serve the arts industry. 
 
 # What I Hope to Learn 
-There are several things I am eager to learn from this course. Please read the following. 
+There are several things I am eager to learn from this course which are as follows. 
 
 1. How to Effectively Utilize Color in Data Visualizations 
 2. How Data Visualizations can Strengthen Key Points & Emphasize a Story  
@@ -20,16 +20,14 @@ Once I graduate, I plan to seek a job in either a remote arts service organizati
 
 # Quick Samples
 Please view a few quick samples of my work here! 
-[Data Visualization](dataviz-examples)
 
 # Assignments 
 Please view my main submissions for assignments in this course below. 
-[Critique by Design](critique-by-design)
 
 ## Assignment: [Visualizing Overnment Debt](visualizing-government-debt)
 I will set up and link to a new page. This page is linking to a new Markdown document called `visualizing-government-debt.md`. For links to markdown files in my repository, I can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3 & 4: [Critique by Design](critique-by-design)
 For this assignment, I will set up and link to a new page. This page is linking to a new markdown document called `critique-by-design.md`.  
 
 ## Final Project
