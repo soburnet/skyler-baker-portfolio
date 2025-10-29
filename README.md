@@ -7,26 +7,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - Web page URL: https://soburnet.github.io/skyler-baker-portfolio/
 - This repository: https://github.com/soburnet/skyler-baker-portfolio/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+# Data Visualization Portfolio
+This is my public portfolio for *Telling Stories with Data* at Carnegie Mellon University's Heinz College. Please note that the work shown on this website are results of assignments from this course. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+# About Me 
+Hi! My name is Skyler Baker. I am a second year Master of Arts Management candidate with a focus in the performing arts. I have a Bachelor's in Theatre Arts and am passionate about contributing to a sustainable future for arts organizations. 
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+# What I Hope to Learn 
+There are several things I am eager to learn about designing data visualizations! Please read the following. 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
+1. How to Effectively Utilize Color in Data Visualizations 
+2. How Data Visualizations can Strengthen Key Points & Emphasize a Story  
+3. How to Design a Variety of Graphs and Data Visualizations 
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
