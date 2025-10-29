@@ -1,8 +1,5 @@
 | [home page](https://soburnet.github.io/skyler-baker-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-- Web page URL: https://soburnet.github.io/skyler-baker-portfolio/
-- This repository: https://github.com/soburnet/skyler-baker-portfolio/
-
 # Data Visualization Portfolio
 This is my public portfolio for *Telling Stories with Data* at Carnegie Mellon University's Heinz College. Please note that the work shown on this website are results of assignments from this course. 
 
@@ -44,4 +41,6 @@ The references I use to complete assignments in this course will be listed here.
 
 ## AI acknowledgements
 If I utilize AI to complete any of the assignments, I will describe the usage here. 
+
+Website URL: https://soburnet.github.io/skyler-baker-portfolio/ 
 
