@@ -5,7 +5,7 @@
 ## Step One: The Visualization
 
 ### The Original Data Visualization: 
-["One in Four Americans Say It's Wrong to Eat an Octopus"].(
+["One in Four Americans Say It's Wrong to Eat an Octopus"](
 https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/?srsltid=AfmBOoq0b3kDXFFgja77GuHhVjBJzS6KkEphRhH2qa33HXDBk_lhYB56)
 
 The original data visualization compares how many people in the U.S. think it's wrong to eat an octopus versus other animals. I selected this data visualization because the article’s title, along with its information, had quickly intrigued me as it explained how people commonly perceive the morality of eating various animals. In other words, the story resonated with me. The data visualization itself, the only one attached to the article, failed to capture the entire essence of the article. Overall, I chose this data visualization because given what the article described, I wanted to tell a more effective story that really attacked the idea that it’s okay to eat an octopus. 
@@ -100,6 +100,8 @@ In comparison to the original, I feel the aesthetic improved with the deescalati
 
 ## References
 Fleck, Anna. "One in Four People Say Its Wrong to Eat an Octopus." Statista. 2023. https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/?srsltid=AfmBOoq0b3kDXFFgja77GuHhVjBJzS6KkEphRhH2qa33HXDBk_lhYB56
+
+"Datawrapper." Accessed November 13, 2025. https://www.datawrapper.de/ 
 
 ## AI acknowledgements
 I did not use AI for any part of this assignment. 
