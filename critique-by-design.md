@@ -86,7 +86,7 @@ My new goal is to condense the data and make the data visualization more emotive
 
 ### Redesign Process: 
 
-<iframe title="Percentage of U.S. adults who say it is wrong to eat the following animals under normal circumstances" aria-label="Bar Chart" id="datawrapper-chart-bsq8k" src="https://datawrapper.dwcdn.net/bsq8k/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="355" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<div style="min-height:355px" id="datawrapper-vis-bsq8k"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/bsq8k/embed.js" charset="utf-8" data-target="#datawrapper-vis-bsq8k"></script><noscript><img src="https://datawrapper.dwcdn.net/bsq8k/full.png" alt="Percentage of U.S. adults who say it is wrong to eat the following animals under normal circumstances (Bar Chart)" /></noscript></div>
 
 I reread the article a few times and noticed there was additional data mentioned in the article that tied directly to the story. Besides the type of animal, the data also included the percentage of people who said they were not comfortable eating animals with specific attributes such as a “capacity of self awareness.” I decided to add this piece of information to my second redesign to provide more context about how octopi are self-aware. 
 
