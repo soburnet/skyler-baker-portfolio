@@ -52,11 +52,74 @@ These data sources really dive into the various elements the story will cover. I
 
 The data I will include and visualize is listed below. Notably, many of the sources did not provide visualizations of this data. I also mention where within the story the data will be presented. Please note that the list below is very broad and as the story is developed, it will be narrowed down accordingly. Data will also be collected among students in Heinz College through a survey that asks the frequency in which students find themselves on social media and how they feel after doing this. 
 
+| Data                    |  Source                        | Piece of Story | 
+|-------------------------|--------------------------------|-------------|
+| 1 in 5 say social media hurts their mental health | https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/  | Climax |             
+| 40% share of children who have a tablet by age 2 | https://magazine.publichealth.jhu.edu/2025/mental-health-scroll-age                     | Climax |             
+| 78% of people use social media before bed which leads to disrupted sleep patterns | https://cropink.com/social-media-mental-health-statistics |  Climax   |             
+| Nearly 40% of adults admit social media makes them feel lonely or isolated | https://cropink.com/social-media-mental-health-statistics     | Climax |         
+| 1 in 4 people have agreed that they feel addicted to social media | https://cropink.com/social-media-mental-health-statistics              | Introduction |     
+| An average user spends over 6 years of their life on social media | https://cropink.com/social-media-mental-health-statistics              | Introduction |   
+| 73% of young adults (18 to 24) believe that social media negatively affects their mental health. | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| People who spend over 3 hours per day on social media are twice as likely to experience mental health issues | https://cropink.com/social-media-mental-health-statistics | Climax |   
+| 32% of users report experiencing social media fatigue, which leads to burnout and stress | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| 84% of young adults (18-29) use social media for 3+ hours a day | https://cropink.com/social-media-mental-health-statistics | Introduction | 
+| Social Media-Induced Stress affects 1 in 3 users worldwide | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| Late-night scrolling, “doom scrolling” increases the risk of insomnia by 45% | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| Heavy social media users sleep 1 hour less per night than those who limit screen time | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| 60% of users accepted that social media keeps them up at night and reduces their sleep quality | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| Blue light exposure from screens reduces melatonin production by 55% | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| Students who use social media excessively have lower academic performance due to sleep deprivation | https://cropink.com/social-media-mental-health-statistics | Climax | 
+| Social media addiction has been found to be affecting 210 million people worldwide  | https://cropink.com/social-media-mental-health-statistics | Introduction | 
+| On average, young adults check their phones over 150 times per day | https://cropink.com/social-media-mental-health-statistics | Introduction | 
+| People spend an average of 2 hours and 31 minutes daily on social media platforms | https://cropink.com/social-media-mental-health-statistics | Introduction | 
+| Limiting social media use to 30 minutes per day reduces anxiety and depression by 35%  | https://cropink.com/social-media-mental-health-statistics | Resolution
+| Disabling notifications can decrease social media-induced stress by 25% | https://cropink.com/social-media-mental-health-statistics | Resolution
+| Engaging in offline hobbies reduces the negative effects of social media by 40% | https://cropink.com/social-media-mental-health-statistics | Resolution
 
+## Other Noteworthy, Potential Mentions
 
+The following sections below are additional subjects that may be included in the presentation. 
 
-## References
-_List any references you used here._
+[How Policy Plays Into Resolution](https://magazine.publichealth.jhu.edu/2025/mental-health-scroll-age)
+1. California passed a law restricting addictive social media feeds for children and set time limits on notifications. 
+2. Florida raised the legal age for joining a social media platform to 14. 
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+[Suggestions of Better Practices to Reduce Negative Effects of Social Media](https://reliefmh.com/blog/scrolling-and-stress-the-link-between-social-media-and-anxiety/)
+1. Set Time Limits
+2. Curate Your Feed 
+3. Take Digital Detoxes 
+4. Check-In with Yourself
+5. Practice Mindful Scrolling
+
+## Sources 
+
+Faverio, Michelle. Anderson, Monica. Park, Eugenie. “Teens, Social Media and Mental Health.” Pew 
+Research. April 22, 2025. https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/
+
+Few, Stephen. “Data Visualization Effectiveness Profile.” Perceptual Edge. 2017. 
+https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiv
+eness_profile.pdf 
+
+Saini, Manisha. “50+ Alarming Social Media and Mental Health Statistics.” CropInk. June 3, 2025. 
+https://cropink.com/social-media-mental-health-statistics 
+
+Schmitt, Kellie. “Mental Health in the Scroll Age.” Hopkins Bloomberg, Public Health. Accessed on 
+November 18, 2025. https://magazine.publichealth.jhu.edu/2025/mental-health-scroll-age 
+
+“DataWrapper.”  Accessed on November 18, 2025. https://www.datawrapper.de/ 
+
+“How Social Media Affects Gen Z: Digital Wellbeing 2025 Report.” The Cybersmile Foundation. June 
+20, 2025. https://www.cybersmile.org/2025/06/20/how-social-media-affects-gen-z-digital-wellbeing-2025-report/
+
+“Scrolling and Stress: The Link Between Social Media and Anxiety.” Relief Mental Health, The Mind 
+Solution. Accessed on November 18, 2025. https://reliefmh.com/blog/scrolling-and-stress-the-link-between-social-media-and-anxiety/ 
+
+“What New Research Reveals About Social Media and Mental Health.” PennState Extension. November 
+5, 2025. https://extension.psu.edu/what-new-research-reveals-about-social-media-and-mental-health
+
+“What New Research Reveals About Social Media and Mental Health: Are Teens Over It?” PennState, 
+Thrive. October 25, 2025. https://thrive.psu.edu/blog/what-new-research-reveals-about-social-media-and-mental-health-are-teens-over-it/ 
+
+I did not use AI for any part of this assignment. 
+
