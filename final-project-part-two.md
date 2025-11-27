@@ -1,68 +1,59 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Please View Storyboard Below
+https://preview.shorthand.com/Ns1kIgX0vB3oOqaX  
 
-Text here!
+I am still making progress within my storyboard thus far. I have been utilizing DataWrapper and my own sketches, but do plan to incorporate Tableau to elevate the look of my visualizations. There is a general outline that higlights the following:
+1) Introduction: Explains the frequency in which young adults use social media.
+2) Climax: Explains the negative effects of social media on those young adults.
+3) Resolution: Explains the ways in which young adults can reduce social media use and how limiting time on social media reduces its negative effects. There is also mention of next generations, younger children and babies, who are already seeing high frequency in media usage. This is intended as this audience may have younger children, so that awareness for reducing usage among them is provided. 
 
-# User research 
+# User Research
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Target Audience 
+As mentioned above, my target audience are young adults. Specifically, ages 18 to 29. Originally, it was 16 to 29, but I felt I needed to condense this in order to be more specific. My approach is to include photos of young adults, talk about how sleep deprivation (an effect of social media) leads to poor academic performance, which may be relevant to college students, and other relevant topics such as this. 
 
-Text here!
+## Interview Script 
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+My goal is to ensure the story itself and the intended audience is clear. Therefore, I will ask the interviewees very straightforward questions in order to gather if this is the case and how I can improve. I also would like to make sure my graphs align with the story I am trying to tell and if they are misleading or confusing in any way. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Clear Story     |     Can you please describe what story you think this is telling?             |
+|  Clear Audience    |      Who do you think the intended audience is for this?             |
+|  Graphs Align with General Story    |  Do you think these graphs emphasize and add to key storytelling points?  |
 
 
-Text here!
+## Interview Findings 
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+### Interviewee Characteristics 
+Interviewee 1: Heinz Student, Ohio, Late 20s 
+Interviewee 2: Heinz Student, Pennsylvania, Early 30s 
+Interviewee 3: Early-Career Professional, Texas, Late 20s 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Can you please describe what story you think this is telling? | How young adults are addicted to their phones. | How disruptive social media addiction is | How social media is bad for you. | 
+| Who do you think the intended audeince is for this?  | Young Adults | Early to Late 20s | Late Teens to Early 30s |
+| Do you think these graphs emphasize and add to key storytelling points? | Yes, the graphs do a nice job of conveying the story. | The title of the last graph in the last section is a little confusing. | Yes, I think there are a lot of pie charts though, which is a little distracting.|
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+# Identified Changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Perceived as Social Media Being "Bad" | I will definitely lean into this more by making colors within the graphs more associated with "negative feelings." My intention is to convey that social media has negative effects, so the feeling is there. I can emphasize it more.|
+| Audience is within the Young Adult Range | This is good. However, there was a wider range than I anticipated being conveyed. My plan was already to condense this, but I may condense it even more to 18 to Late 20s. |
+| Confusing Title of Last Graph |  I plan to simplify the title of the graph that the interviewee was referring to in order to make it more clear and direct. |
+| Number of Pie Charts |  I will find other ways to tell the same story with my current data visualizations. Of course, I will be adding more. As I add more and revise, I will try to find ways to be more creative and clever with my visualizations instead of sticking to pie charts. |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Overall, I feel as though I am on the right track. As I condense the age range referenced within the story, I feel it will be more direct in who it is for. There are many things that I plan to add and clean up. In general, I feel I can be more creative in how I visualize my data and more straightforward as well. The story itself is generally clear, but in order to make it apparent of why the story is saying social media is "bad," I will look for ways to more strongly introduce its negative affects. 
 
 ## References
-_List any references you used here._
+Shorthand. Accessed on November 26, 2025. https://shorthand.com/  
+
+I did not use any additional references for the completion of this assignment. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI for any part of this assignment. 
 
