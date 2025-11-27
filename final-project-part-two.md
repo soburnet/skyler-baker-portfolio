@@ -5,8 +5,11 @@
 https://preview.shorthand.com/Ns1kIgX0vB3oOqaX  
 
 I am still making progress within my storyboard thus far. I have been utilizing DataWrapper and my own sketches, but do plan to incorporate Tableau to elevate the look of my visualizations. There is a general outline that higlights the following:
+
 1) Introduction: Explains the frequency in which young adults use social media.
+
 2) Climax: Explains the negative effects of social media on those young adults.
+
 3) Resolution: Explains the ways in which young adults can reduce social media use and how limiting time on social media reduces its negative effects. There is also mention of next generations, younger children and babies, who are already seeing high frequency in media usage. This is intended as this audience may have younger children, so that awareness for reducing usage among them is provided. 
 
 # User Research
@@ -29,7 +32,9 @@ My goal is to ensure the story itself and the intended audience is clear. Theref
 
 ### Interviewee Characteristics 
 Interviewee 1: Heinz Student, Ohio, Late 20s 
+
 Interviewee 2: Heinz Student, Pennsylvania, Early 30s 
+
 Interviewee 3: Early-Career Professional, Texas, Late 20s 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
