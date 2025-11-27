@@ -41,7 +41,7 @@ Interviewee 3: Early-Career Professional, Texas, Late 20s
 
 # Identified Changes for Part III
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research Synthesis                       | Anticipated Changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Perceived as Social Media Being "Bad" | I will definitely lean into this more by making colors within the graphs more associated with "negative feelings." My intention is to convey that social media has negative effects, so the feeling is there. I can emphasize it more.|
 | Audience is within the Young Adult Range | This is good. However, there was a wider range than I anticipated being conveyed. My plan was already to condense this, but I may condense it even more to 18 to Late 20s. |
