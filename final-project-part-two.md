@@ -6,12 +6,12 @@ https://preview.shorthand.com/Ns1kIgX0vB3oOqaX
 
 I am still making progress within my storyboard thus far. I have been utilizing DataWrapper and my own sketches, but do plan to incorporate Tableau to elevate the look of my visualizations. There is a general outline that higlights the following:
 
-1) Introduction: Explains the frequency in which young adults use social media.
-
-2) Climax: Explains the negative effects of social media on those young adults.
-
-3) Resolution: Explains the ways in which young adults can reduce social media use and how limiting time on social media reduces its negative effects. There is also mention of next generations, younger children and babies, who are already seeing high frequency in media usage. This is intended as this audience may have younger children, so that awareness for reducing usage among them is provided. 
-
+Introduction: Explains the frequency in which young adults use social media.
+<br/>
+Climax: Explains the negative effects of social media on those young adults.
+<br/>
+Resolution: Explains the ways in which young adults can reduce social media use and how limiting time on social media reduces its negative effects. There is also mention of next generations, younger children and babies, who are already seeing high frequency in media usage. This is intended as this audience may have younger children, so that awareness for reducing usage among them is provided. 
+<br/>
 # User Research
 
 ## Target Audience 
@@ -32,12 +32,12 @@ My goal is to ensure the story itself and the intended audience is clear. Theref
 
 ### Interviewee Characteristics 
 Interviewee 1: Heinz Student, Ohio, Late 20s 
-
+<br/>
 Interviewee 2: Heinz Student, Pennsylvania, Early 30s 
-
+<br/>
 Interviewee 3: Early-Career Professional, Texas, Late 20s 
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+<br/>
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Can you please describe what story you think this is telling? | How young adults are addicted to their phones. | How disruptive social media addiction is | How social media is bad for you. | 
 | Who do you think the intended audeince is for this?  | Young Adults | Early to Late 20s | Late Teens to Early 30s |
