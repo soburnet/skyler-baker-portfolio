@@ -1,6 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Please View Storyboard Below
+# Storyboard & Research 
+## Please View Storyboard Below
 https://preview.shorthand.com/Ns1kIgX0vB3oOqaX  
 
 I am still making progress within my storyboard thus far. I have been utilizing DataWrapper and my own sketches, but do plan to incorporate Tableau to elevate the look of my visualizations. There is a general outline that higlights the following:
