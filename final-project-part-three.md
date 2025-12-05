@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The Final Data Story
-My Data Story Can Be Found Here: https://carnegiemellon.shorthandstories.com/the-hidden-truths-of-how-social-media-effects-the-well-being-of-young-adults/index.html 
+My Data Story Can Be Found Here: https://carnegiemellon.shorthandstories.com/the-hidden-truths-of-how-social-media-effects-the-well-being-of-young-adults/index.html
 
 # Changes Made Since Part II 
 Since Part II, I have made tremendous progress on my storyboard. Ultimately, I ended up using Data Wrapper for all of my visualizations. I originally had made a few of my own sketches, but for aesthetic purposes, I wanted consistency within the look of my visualizations. 
